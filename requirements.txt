@@ -1,0 +1,5 @@
+tkinter
+tkintermapview
+haversine>=1.6.0
+requests>=2.25.1
+geopy>=2.1.0
